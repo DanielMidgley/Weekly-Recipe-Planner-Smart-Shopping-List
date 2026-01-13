@@ -1,0 +1,22 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+
+# Node
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Rust
+target/
+**/*.rs.bk
+
+# Env
+.env
+*.env
